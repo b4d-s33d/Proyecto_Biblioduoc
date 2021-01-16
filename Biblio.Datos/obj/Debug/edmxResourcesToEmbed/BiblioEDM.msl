@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BiblioDuoc2_BDModelStoreContainer" CdmEntityContainer="BiblioDuoc2_BDEntities1">
+    <EntitySetMapping Name="Libro">
+      <EntityTypeMapping TypeName="BiblioDuoc2_BDModel.Libro">
+        <MappingFragment StoreEntitySet="Libro">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="titulo" ColumnName="titulo" />
+          <ScalarProperty Name="autor" ColumnName="autor" />
+          <ScalarProperty Name="anioEdicion" ColumnName="anioEdicion" />
+          <ScalarProperty Name="genero" ColumnName="genero" />
+          <ScalarProperty Name="editorial" ColumnName="editorial" />
+          <ScalarProperty Name="fechaIngreso" ColumnName="fechaIngreso" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Solicitante">
+      <EntityTypeMapping TypeName="BiblioDuoc2_BDModel.Solicitante">
+        <MappingFragment StoreEntitySet="Solicitante">
+          <ScalarProperty Name="codigoLibro" ColumnName="codigoLibro" />
+          <ScalarProperty Name="rut" ColumnName="rut" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="fechaPrestamo" ColumnName="fechaPrestamo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="BiblioDuoc2_BDModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="rut" ColumnName="rut" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="nombreUsuario" ColumnName="nombreUsuario" />
+          <ScalarProperty Name="contrasenia" ColumnName="contrasenia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,46 @@
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\Biblio.Datos.dll.config
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\Biblio.Datos.dll
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\Biblio.Datos.pdb
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\EntityFramework.dll
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\EntityFramework.xml
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.csprojAssemblyReference.cache
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.csproj.CoreCompileInputs.cache
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.csproj.CopyComplete
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.dll
+C:\Users\truff\Desktop\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.pdb
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\Biblio.Datos.dll.config
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\Biblio.Datos.dll
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\Biblio.Datos.pdb
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\EntityFramework.dll
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\EntityFramework.xml
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.csprojAssemblyReference.cache
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.csproj.CoreCompileInputs.cache
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.csproj.CopyComplete
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.dll
+C:\Users\truff\Desktop\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.pdb
+C:\Users\truff\Documents\DUOC\3ER SEMESTRE\DESARROLLO SOFTWARE ESCRITORIO Y GESTION_006D ✓\PROYECTO BIBLIODUOC\BIBLIODUOC_4TA_ENTREGA\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.csprojAssemblyReference.cache
+C:\Users\truff\Documents\DUOC\3ER SEMESTRE\DESARROLLO SOFTWARE ESCRITORIO Y GESTION_006D ✓\PROYECTO BIBLIODUOC\BIBLIODUOC_4TA_ENTREGA\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.csproj.CoreCompileInputs.cache
+C:\Users\truff\Documents\DUOC\3ER SEMESTRE\DESARROLLO SOFTWARE ESCRITORIO Y GESTION_006D ✓\PROYECTO BIBLIODUOC\BIBLIODUOC_4TA_ENTREGA\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.dll
+C:\Users\truff\Documents\DUOC\3ER SEMESTRE\DESARROLLO SOFTWARE ESCRITORIO Y GESTION_006D ✓\PROYECTO BIBLIODUOC\BIBLIODUOC_4TA_ENTREGA\GONZÁLEZ_SILVA_TERÁN\SolucionBiblioDuoc_2.0\Biblio.Datos\obj\Debug\Biblio.Datos.pdb
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\bin\Debug\Biblio.Datos.dll.config
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\bin\Debug\Biblio.Datos.dll
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\bin\Debug\Biblio.Datos.pdb
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\bin\Debug\EntityFramework.dll
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\bin\Debug\EntityFramework.xml
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\obj\Debug\Biblio.Datos.csprojAssemblyReference.cache
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\obj\Debug\Biblio.Datos.csproj.CoreCompileInputs.cache
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\obj\Debug\Biblio.Datos.csproj.CopyComplete
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\obj\Debug\Biblio.Datos.dll
+C:\Users\truff\Desktop\Proyecto_Biblioduoc\Biblio.Datos\obj\Debug\Biblio.Datos.pdb
